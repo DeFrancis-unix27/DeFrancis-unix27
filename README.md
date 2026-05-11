@@ -101,7 +101,7 @@ These reflect how I think:
 - **Consistency beats perfection**
 - **Simple solutions age better**
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeFrancis-unix27&show_icons=true&theme=default)
 
 ## 📫 Reach Me
 
