@@ -101,6 +101,24 @@ These reflect how I think:
 - **Consistency beats perfection**
 - **Simple solutions age better**
 
+Here's everything for your DeFrancis-unix27 profile README:
+
+*WORKING SERVICES*
+
+*Streak Stats (Heroku)*
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeFrancis-unix27)
+
+*Trophies (Vercel)*
+![Trophy](https://github-profile-trophy.vercel.app/?username=DeFrancis-unix27&theme=radical)
+
+*Activity Graph (Vercel)*
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeFrancis-unix27)
+
+*Summary Cards (Vercel)*
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeFrancis-unix27)
+
+*Snake Animation*
+![Snake](https://raw.githubusercontent.com/DeFrancis-unix27/DeFrancis-unix27/output/github-contribution-grid-snake.svg)
 
 ## 📫 Reach Me
 
