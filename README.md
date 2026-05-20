@@ -117,9 +117,6 @@ Here's everything for your DeFrancis-unix27 profile README:
 *Summary Cards (Vercel)*
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeFrancis-unix27)
 
-*Snake Animation*
-![Snake](https://raw.githubusercontent.com/DeFrancis-unix27/DeFrancis-unix27/output/github-contribution-grid-snake.svg)
-
 ## 📫 Reach Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://francisdave.vercel.app/)
