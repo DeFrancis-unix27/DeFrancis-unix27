@@ -1,128 +1,139 @@
-# 👋 Hi, I’m Francis Prevail (CodeSmith)
+<div align="center">
 
-I’m a software developer who cares deeply about **how systems are designed, how code ages over time,
-and how small decisions affect the whole system**.
+# Hi, I'm DeFrancis-unix27
 
-I don’t just write code to “make things work” —  
-I focus on **structure, clarity, and maintainability**.
+### Backend Developer • System Design • Automation & Tooling
 
----
+Building reliable backend systems, scalable APIs, and practical developer tools.
 
-## 🧠 How I Think About Software
+<p>
+  <img src="https://komarev.com/ghpvc/?username=DeFrancis-unix27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- Software is a **system**, not just files and features  
-- Readability and structure matter more than clever tricks  
-- Code should be understandable by someone else (or future me)  
-- Backend logic should be **predictable, testable, and boring**  
-- Automation exists to remove friction, not add complexity  
+<p>
+  <a href="https://github.com/DeFrancis-unix27">
+    <img src="https://img.shields.io/badge/GitHub-DeFrancis--unix27-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-I prefer solving problems **the right way**, even if it takes longer.
-
----
-
-## 🔧 What I Actually Work On
-
-### 🧩 Backend Systems
-I spend most of my time designing and implementing:
-- APIs and backend logic
-- Authentication and authorization flows
-- Database schemas and data relationships
-- Error handling and edge cases
-- Admin and internal tooling
-
-My backend work is focused on **clarity of data flow** and **separation of concerns**.
+</div>
 
 ---
 
-### 🌐 Web Applications
-I build full-stack applications, but I approach them **from the backend outward**:
-- Backend defines rules and structure
-- Frontend consumes clean, stable APIs
-- UI exists to serve the system, not dominate it
+## About Me
+
+* Backend-focused software developer
+* Interested in System Design and Software Architecture
+* Building APIs, automation tools, and web applications
+* Passionate about maintainable and scalable systems
+* Always learning and improving engineering practices
 
 ---
 
-### ⚙️ Automation & Tooling
-I regularly write small scripts to:
-- Automate repetitive tasks
-- Simplify development workflows
-- Manage environments and system setup
+## Focus Areas
 
-These tools are not flashy — they are practical.
-
----
-
-## 🛠️ Tools I Use (Because They Fit My Way of Working)
-
-| Area | Tools |
-|----|------|
-| Languages | Python, JavaScript, TypeScript |
-| Backend | Django, Django REST Framework, Node.js |
-| Databases | PostgreSQL, MySQL, SQLite, Supabase |
-| Infra | Docker, Nginx |
-| Tooling | Git/GitHub, Postman |
-| Automation | Python, PowerShell, Bash |
-
-I choose tools based on **stability, ecosystem, and clarity**, not trends.
+* System Design
+* Backend Development
+* REST API Development
+* Automation & Tooling
+* Database Design
+* Web Applications
 
 ---
 
-## 📂 Projects (What They Mean to Me)
+## Languages
 
-### 🛍️ E-Commerce System
-Not “just a store” — this project taught me:
-- How business rules shape backend design
-- Why data modeling matters early
-- How auth, orders, and payments interact
-- The cost of bad structure over time
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash" />
+</p>
 
----
-
-### 📊 Admin & Management Dashboards
-These projects helped me understand:
-- Why internal tools matter
-- How to design APIs for real users (admins)
-- Pagination, filtering, permissions, and performance
+**Also:** Lua
 
 ---
 
-### ⚙️ Automation Scripts
-These reflect how I think:
-- If I do something twice, it should be automated
-- Tools exist to serve the developer, not impress others
+## Frameworks & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,docker,nginx,git,github" />
+</p>
+
+### Backend
+
+* Django
+* Django REST Framework
+* FastAPI
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### Infrastructure & Tooling
+
+* Docker
+* Nginx
+* Git
+* GitHub
 
 ---
 
-## 🧩 Principles I Actually Follow
+## Engineering Principles
 
-- **Clarity over cleverness**
-- **Structure before speed**
-- **Systems over features**
-- **Consistency beats perfection**
-- **Simple solutions age better**
-
-Here's everything for your DeFrancis-unix27 profile README:
-
-*WORKING SERVICES*
-
-*Streak Stats (Heroku)*
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeFrancis-unix27)
-
-*Trophies (Vercel)*
-![Trophy](https://github-profile-trophy.vercel.app/?username=DeFrancis-unix27&theme=radical)
-
-*Activity Graph (Vercel)*
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeFrancis-unix27)
-
-*Summary Cards (Vercel)*
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeFrancis-unix27)
-
-## 📫 Reach Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://francisdave.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-david-7code/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prevailfrancis@gmail.com)
+```text
+Clarity > Complexity
+Maintainability > Shortcuts
+Consistency > Perfection
+Systems > Features
+Automation > Repetition
+```
 
 ---
 
-Built deliberately by [CodeSmith](https://github.com/DeFrancis-unix27)
+## GitHub Analytics
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeFrancis-unix27" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeFrancis-unix27" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeFrancis-unix27&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeFrancis-unix27" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeFrancis-unix27&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## Current Interests
+
+* Distributed Systems
+* Backend Architecture
+* API Design
+* Automation Engineering
+* Developer Experience (DX)
+* Open Source
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/DeFrancis-unix27">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### "Build simple systems that scale, maintain, and endure."
+
+</div>
