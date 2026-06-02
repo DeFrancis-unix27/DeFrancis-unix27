@@ -8,6 +8,7 @@ Building reliable backend systems, scalable APIs, and practical developer tools.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=DeFrancis-unix27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://hackatime.hackclub.com/api/v1/badge/U0B4YNGJV1C/DeFrancis-unix27" alt="hacktime view">
 </p>
 
 <p>
@@ -87,6 +88,14 @@ Consistency > Perfection
 Systems > Features
 Automation > Repetition
 ```
+
+---
+## Hacktime Analytics 
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=34696&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
+</p>
+---
+
 
 ---
 
