@@ -8,7 +8,7 @@ Building reliable backend systems, scalable APIs, and practical developer tools.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=DeFrancis-unix27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://hackatime.hackclub.com/api/v1/badge/U0B4YNGJV1C/DeFrancis-unix27/Tell5" alt="hacktime view">
+  <img src="https://hackatime.hackclub.com/api/v1/badge/U0B4YNGJV1C/DeFrancis-unix27/learning" alt="hacktime view">
 </p>
 
 <p>
