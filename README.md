@@ -8,7 +8,7 @@ Building reliable backend systems, scalable APIs, and practical developer tools.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=DeFrancis-unix27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://hackatime.hackclub.com/api/v1/badge/U0B4YNGJV1C/DeFrancis-unix27/learning" alt="hacktime view">
+  <img src="https://hackatime.hackclub.com/api/v1/badge/U0B4YNGJV1C/DeFrancis-unix27" alt="hacktime view">
 </p>
 
 <p>
@@ -105,7 +105,7 @@ Automation > Repetition
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeFrancis-unix27" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeFrancis-unix27&show_icons=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeFrancis-unix27&show_icons=true" />
 </p>
 
 <p align="center">
