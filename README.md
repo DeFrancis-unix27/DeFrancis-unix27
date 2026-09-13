@@ -8,7 +8,6 @@ Building reliable backend systems, scalable APIs, and practical developer tools.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=DeFrancis-unix27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://hackatime.hackclub.com/api/v1/badge/U0B4YNGJV1C/DeFrancis-unix27" alt="hacktime view">
 </p>
 
 <p>
@@ -45,7 +44,7 @@ Building reliable backend systems, scalable APIs, and practical developer tools.
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,powershell,c" />
 </p>
 
 **Also:** Lua
@@ -95,28 +94,6 @@ Automation > Repetition
   <img width="40%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=34696&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
 </p>
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeFrancis-unix27" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeFrancis-unix27" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeFrancis-unix27&show_icons=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeFrancis-unix27" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeFrancis-unix27&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## Current Interests
 
