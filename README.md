@@ -44,7 +44,7 @@ Building reliable backend systems, scalable APIs, and practical developer tools.
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,powershell,c" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,c" />
 </p>
 
 **Also:** Lua
